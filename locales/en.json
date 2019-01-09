@@ -1,4 +1,25 @@
 {
-  "title": "Sample Title",
-  "description": "Sample Desc"
+  "title": "Sample Title EN",
+  "description": "Sample Desc EN",
+  "links": {
+    "contact": "https://statusfy.co/es/contact",
+    "support": "https://statusfy.co/es/support",
+    "home": "https://statusfy.co/es/"
+  },
+  "systems": {
+    "items": {
+      "Service1": {
+        "title": "Service 1 Title",
+        "description": "Conversión de un archivo a otro"
+      },
+      "Service 2": {
+        "title": "Service 2 Title",
+        "description": "Conversión de un archivo a otro"
+      },
+      "Service Three": {
+        "title": "Service Three Title",
+        "description": "Conversión de un archivo a otro"
+      }
+    }
+  }
 }

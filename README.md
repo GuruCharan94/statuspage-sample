@@ -1,3 +1,7 @@
-sudo npm install -g statusfy
+# Getting Started
+
+``` bash
+git clone this repository
 npx statusfy init
 npm install
+```
